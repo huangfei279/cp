@@ -24,5 +24,5 @@ jobs:
         with:
           source_repo: "https://github.com/Sunert/Scripts.git"
           source_branch: "main"
-          destination_branch: "ZIYE"
+          destination_branch: "main"
           github_token: ${{ secrets.PAT }}
