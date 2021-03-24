@@ -1,4 +1,4 @@
-name: sunert-sync
+name: ziye-sync
 on:
   schedule:
     - cron: '1 */20 * * *'
